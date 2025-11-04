@@ -8,6 +8,7 @@ namespace Polymorfism_Robin_Johansson
 {
     abstract class Geometry
     {
+        //abstract class Geometry is the base class of the diferent classes of shapes
         public abstract double Area();
     }
 }
